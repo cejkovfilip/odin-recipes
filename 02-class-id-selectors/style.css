@@ -1,0 +1,14 @@
+.klasa1 {
+    background-color: palevioletred;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    fallback: sans-serif;
+}
+#prvID {
+    color: blue;
+    font-size: 36px;
+}
+#vtorID {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
